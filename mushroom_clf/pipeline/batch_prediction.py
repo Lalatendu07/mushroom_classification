@@ -9,7 +9,7 @@ import os, sys
 
 PREDICTION_DIR = "prediction"
 
-def batch_prediction(input_file_path):
+def start_batch_prediction(input_file_path):
     try:
         os.makedirs(PREDICTION_DIR,exist_ok=True)
         logging.info(f"Creating model resolver object")
