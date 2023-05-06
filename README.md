@@ -41,6 +41,7 @@ This data set includes descriptions of hypothetical samples corresponding to 23 
 20. spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r, orange=o,purple=u,white=w,yellow=y
 21. population: abundant=a,clustered=c,numerous=n, scattered=s,several=v,solitary=y
 22. habitat: grasses=g,leaves=l,meadows=m,paths=p, urban=u,waste=w,woods=d
+==============================================================================================================================================================
 
 #### website link :- http://ec2-3-109-59-195.ap-south-1.compute.amazonaws.com:8080/
 
