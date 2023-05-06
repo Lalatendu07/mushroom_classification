@@ -42,5 +42,6 @@ This data set includes descriptions of hypothetical samples corresponding to 23 
 21. population: abundant=a,clustered=c,numerous=n, scattered=s,several=v,solitary=y
 22. habitat: grasses=g,leaves=l,meadows=m,paths=p, urban=u,waste=w,woods=d
 
-####website link :- http://ec2-3-109-59-195.ap-south-1.compute.amazonaws.com:8080/
+#### website link :- http://ec2-3-109-59-195.ap-south-1.compute.amazonaws.com:8080/
+
 user name = admin and password = admin
